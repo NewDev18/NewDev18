@@ -1,4 +1,4 @@
-[![MasterHead]([https://img.freepik.com/free-vector/machine-learning-banner-artificial-intelligence_107791-611.jpg](https://static.vecteezy.com/system/resources/previews/028/701/224/original/data-science-banner-web-icon-illustration-concept-with-icon-of-analysis-structure-algorithm-process-programming-solving-knowledge-vector.jpg))](https://NewDev18.io)
+[![MasterHead](https://static.vecteezy.com/system/resources/previews/028/701/224/original/data-science-banner-web-icon-illustration-concept-with-icon-of-analysis-structure-algorithm-process-programming-solving-knowledge-vector.jpg)](https://NewDev18.io)
 <h1 align="center">Hi 👋, I'm Rabin Lamichhane</h1>
 <h3 align="center">A passionate Learner of AI and Machine Learning.</h3>
 <img align="right" alt="Coding" width="400", src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
