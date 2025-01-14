@@ -3,13 +3,12 @@
 <h3 align="center">A passionate Learner of AI and Machine Learning.</h3>
 <img align="right" alt="Coding" width="400", src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **OpenCV Project**
+- 🔭 I’m currently working on **GenAI Projects**
 
 - 🌱 I’m currently learning **Computer Vision**
 
 - 📫 How to reach me **lamichhanerabin3@gmail.com**
 
-- ⚡ Fun fact **I am a fitness freak.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
